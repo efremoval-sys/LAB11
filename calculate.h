@@ -1,3 +1,4 @@
+/////////////
 //calculate.h
 
 #ifndef CALCULATE_H_

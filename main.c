@@ -9,7 +9,7 @@ main (void)
   float Numeral;
   char Operation[4];
   float Result;
-  printf("Число: ");
+  printf("Число (Numeral): ");
   scanf("%f",&Numeral);
   printf("Операция (+,-,*,/,pow,sqrt,sin,cos,tan): ");
   scanf("%s",Operation);

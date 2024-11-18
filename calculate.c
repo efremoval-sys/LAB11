@@ -5,6 +5,8 @@
 #include <string.h>
 #include "calculate.h"
 
+printf("Программа-калькулятор");
+
 float
 Calculate(float Numeral, char Operation[4])
 {
